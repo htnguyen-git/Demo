@@ -40,3 +40,4 @@
 - API key: https://app.hellosign.com/home/myAccount?current_tab=integrations#api
 -https://documenter.getpostman.com/view/5021038/S17ru7ui#4a1fd627-6b3e-4ea1-b9eb-215a4967f604
 - Document: https://dropbox.github.io/dropbox-sdk-dotnet/
+- Postman collection : https://documenter.getpostman.com/view/5021038/S17ru7ui
